@@ -6,8 +6,8 @@
     "axios": "1.5.0",
     "debug": "^4.3.4",
     "events": "^3.3.0",
-    "https": "^1.0.0",
+    "http2": "^3.3.7",
     "querystring": "0.2.1",
-    "zlib": "^1.0.5"
+    "turbo-http": "^0.3.2"
   }
 }
